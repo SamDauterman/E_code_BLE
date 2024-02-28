@@ -4,6 +4,8 @@
 
 #include "mcc_generated_files/system.h" 
 
+// comment to test committing
+
 BufferOut( char *buff, long temp )   // Not used  
 
 { 
